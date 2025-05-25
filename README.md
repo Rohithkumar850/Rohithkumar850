@@ -41,79 +41,18 @@ Motivated Software Engineer skilled in Python, Java & SQL, with cloud (AWS) and 
 
 ---
 
-# Rohith Kumar Mattam – Skills Overview
+## 🛠️ Skills
 
-Aspiring Software Engineer with a strong foundation in backend development, DevOps, software testing, cloud platforms, distributed systems, and AI/ML. Skilled in designing scalable, maintainable, and efficient software solutions.
-
-## Programming Languages
-- Java
-- C++
-- C#
-- Python
-- JavaScript
-- TypeScript
-
-## Test Automation & Frameworks
-- Automated Testing
-- Integration Testing Frameworks
-- Test Case Design
-- Test-Driven Development (TDD)
-
-## Security & Vulnerability Assessment
-- Penetration Testing
-- Exploitability Analysis
-- Platform Security Hardening (Linux & Windows)
-
-## Web & Backend Development
-- Node.js
-- RESTful APIs
-- Service-Oriented Architectures (SOA)
-- Microservices
-
-## Cloud & DevOps
-- AWS (Lambda, EC2)
-- Docker
-- Kubernetes
-- Jenkins
-- Git
-- CI/CD Automation
-
-## Databases & Performance
-- MySQL
-- PL/SQL
-- Query Optimization
-- Indexing
-- Scalability & Reliability in Database Systems
-
-## Operating Systems
-- Linux
-- Windows
-
-## Distributed Systems & Architecture
-- Fault-Tolerant Systems
-- Scalable Multi-tier Architectures
-
-## AI/ML & Testing
-- Machine Learning Testing Approaches
-- Data Science Libraries (Pandas, NumPy)
-- Optimization Techniques
-
-## Software Development Practices
-- Agile Methodology
-- Software Development Life Cycle (SDLC)
-- Unit Testing
-- Debugging
-- Requirement Gathering
-- Stakeholder Communication
-
-## Collaboration
-- Cross-functional Teams
-- Requirement Analysis
-- Technical & Stakeholder Communication
-
----
-
-Passionate about continuous learning, solving real-world problems, and building high-quality software systems.
+**Languages:** Java, Python, C++, C#, JavaScript, TypeScript  
+**Web & Backend:** Node.js, RESTful APIs, Microservices, SOA  
+**Databases:** MySQL, PL/SQL, Query Optimization, Indexing  
+**Cloud & DevOps:** AWS (Lambda, EC2), Docker, Kubernetes, Jenkins, Git, CI/CD  
+**Testing & Automation:** Selenium, Automated Testing, TDD, Test Case Design  
+**Security:** Penetration Testing, Security Hardening (Linux/Windows), Exploit Analysis  
+**AI/ML:** Gradient Boosting, NLP, Pandas, NumPy  
+**Software Practices:** Agile, SDLC, Debugging, Requirement Analysis  
+**Systems:** Distributed Systems, Fault-Tolerant Architectures, Linux, Windows  
+**Collaboration:** Cross-functional Teams, Stakeholder Communication
 
 
 ---
