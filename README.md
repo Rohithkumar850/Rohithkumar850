@@ -1,4 +1,8 @@
 # Hi, I'm Rohith Kumar Mattam — Aspiring Software Engineer
+<p float="left">
+  <img src="https://your-image-url.com/photo.jpg" alt="Rohith Kumar Mattam" width="150" style="margin-right:20px; border-radius: 10px;" />
+  I am a passionate Software Engineer with 3 years of professional experience in software development, testing, and automation across diverse domains including supply chain, eCommerce, and academic projects. Skilled in modern programming languages, cloud technologies, CI/CD automation, and secure scalable system design. Experienced in AI/ML model testing and automation frameworks. I excel in collaborative environments and have a strong foundation in building reliable, high-performance software solutions.
+</p>
 
 **Software Development | Testing & Automation | Cloud & Scalable Systems | AI/ML Testing Enthusiast**
 
