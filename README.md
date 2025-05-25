@@ -41,13 +41,80 @@ Motivated Software Engineer skilled in Python, Java & SQL, with cloud (AWS) and 
 
 ---
 
-## 🧰 Skills
+# Rohith Kumar Mattam – Skills Overview
 
-**Languages:** Python · Java · SQL · JavaScript · TypeScript  
-**Cloud & DevOps:** AWS (Lambda, EC2) · Docker · Kubernetes · Jenkins · CI/CD  
-**Databases:** MySQL · PostgreSQL · Astra DB · FAISS  
-**Testing:** Selenium · Manual & Automated Testing  
-**Concepts:** OOP · Distributed Systems · Algorithms · Agile · ML/NLP · REST APIs
+Aspiring Software Engineer with a strong foundation in backend development, DevOps, software testing, cloud platforms, distributed systems, and AI/ML. Skilled in designing scalable, maintainable, and efficient software solutions.
+
+## Programming Languages
+- Java
+- C++
+- C#
+- Python
+- JavaScript
+- TypeScript
+
+## Test Automation & Frameworks
+- Automated Testing
+- Integration Testing Frameworks
+- Test Case Design
+- Test-Driven Development (TDD)
+
+## Security & Vulnerability Assessment
+- Penetration Testing
+- Exploitability Analysis
+- Platform Security Hardening (Linux & Windows)
+
+## Web & Backend Development
+- Node.js
+- RESTful APIs
+- Service-Oriented Architectures (SOA)
+- Microservices
+
+## Cloud & DevOps
+- AWS (Lambda, EC2)
+- Docker
+- Kubernetes
+- Jenkins
+- Git
+- CI/CD Automation
+
+## Databases & Performance
+- MySQL
+- PL/SQL
+- Query Optimization
+- Indexing
+- Scalability & Reliability in Database Systems
+
+## Operating Systems
+- Linux
+- Windows
+
+## Distributed Systems & Architecture
+- Fault-Tolerant Systems
+- Scalable Multi-tier Architectures
+
+## AI/ML & Testing
+- Machine Learning Testing Approaches
+- Data Science Libraries (Pandas, NumPy)
+- Optimization Techniques
+
+## Software Development Practices
+- Agile Methodology
+- Software Development Life Cycle (SDLC)
+- Unit Testing
+- Debugging
+- Requirement Gathering
+- Stakeholder Communication
+
+## Collaboration
+- Cross-functional Teams
+- Requirement Analysis
+- Technical & Stakeholder Communication
+
+---
+
+Passionate about continuous learning, solving real-world problems, and building high-quality software systems.
+
 
 ---
 
