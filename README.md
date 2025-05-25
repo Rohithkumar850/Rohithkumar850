@@ -1,6 +1,7 @@
 # Hi, I'm Rohith Kumar Mattam — Aspiring Software Engineer
 ![Profile Picture]([https://cbsmn.com/wp-content/uploads/2020/08/AdobeStock_277264567-2-2-scaled.jpeg](https://in.pinterest.com/pin/3096293490096929/))
 
+
  I am a passionate Software Engineer with 3 years of professional experience in software development, testing, and automation across diverse domains including supply chain, eCommerce, and academic projects. Skilled in modern programming languages, cloud technologies, CI/CD automation, and secure scalable system design. Experienced in AI/ML model testing and automation frameworks. I excel in collaborative environments and have a strong foundation in building reliable, high-performance software solutions.
 </p>
 
