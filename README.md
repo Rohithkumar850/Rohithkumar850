@@ -87,7 +87,8 @@ I am a passionate Software Engineer with 3 years of professional experience in s
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)]https://www.linkedin.com/in/rohith-mattam/)  
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github)](https://github.com/Rohithkumar850)  
-✉️ rohith.kumar@example.com
+[![Email](https://img.shields.io/badge/Email-mrohithkumar997@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrohithkumar997@gmail.com)
+
 
 ---
 ⭐ Thank you for visiting!  
