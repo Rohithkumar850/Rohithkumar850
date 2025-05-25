@@ -1,8 +1,5 @@
 <h1 align="center">👋 Hi, I'm Rohith Kumar Mattam</h1>
-
-<p align="center">
-  <em>Aspiring Software Engineer | Cloud & Backend Developer | ML & NLP Enthusiast</em>
-</p>
+<p align="center"><em>Aspiring Software Engineer | Cloud & Backend | ML & NLP Enthusiast</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -16,74 +13,56 @@
 ---
 
 ## 🚀 About Me
-
-I'm a passionate Software Engineer specializing in **scalable backend systems**, **cloud-native applications**, and **data-driven solutions** using technologies like **Python, Java, AWS, Docker, and Kubernetes**.
-
-💡 I love solving real-world problems through clean code, efficient algorithms, and automation.  
-🔁 I thrive in **Agile** teams, contributing to high-impact projects with **CI/CD**, **distributed systems**, and **RESTful APIs**.  
-🧠 I'm actively learning and applying my knowledge in **Machine Learning, NLP**, and **AI chatbot development**.
+Motivated Software Engineer skilled in Python, Java & SQL, with cloud (AWS) and container (Docker, Kubernetes) expertise. I build scalable, data-driven systems, automate CI/CD workflows, and optimize algorithms in Agile teams.
 
 ---
 
 ## 💼 Experience
 
-### 🖥️ DXC Technology – *Software Engineer*
-- Built and optimized supply chain & eCommerce platforms using **Java**, **Python**, **REST APIs**, and **AWS** (Lambda, EC2).
-- Reduced deployment time by 40% with **Docker, Jenkins**, and **CI/CD pipelines**.
-- Improved system uptime to **99.9%** under high load using scalable backend modules and **MySQL**.
-- Collaborated in **Agile teams** for design, testing, and delivery of high-impact solutions.
+**Graduate Assistant** • Texas Tech University (Lubbock, TX)  
+- Developed Python/Java modules & SQL systems; designed lightweight distributed student-tracking tool.  
+- Mentored 50+ students in data structures, algorithms & debugging.
 
-### 🎓 Texas Tech University – *Graduate Assistant*
-- Developed student-tracking systems using **Python, Java**, and **distributed systems** principles.
-- Boosted SQL query performance via effective **indexing and schema design**.
-- Assisted faculty and mentored 50+ students on **Data Structures, Algorithms**, and **System Design**.
+**Software Engineer** • DXC Technology  
+- Delivered supply-chain & eCommerce features (Java, Python, REST, AWS Lambda/EC2); +30% efficiency, 99.9% uptime.  
+- Automated CI/CD with Docker & Jenkins; –40% deployment time, +20% delivery speed.
 
-### 💻 Software Engineering Intern
-- Created backend services with **Node.js**, **TypeScript**, **MySQL**, and deployed on **AWS** using **Docker & Kubernetes**.
-- Enhanced system performance via optimized APIs and database queries.
+**Software Engineer Intern** • Remote (Hyderabad, India)  
+- Built Node.js/TypeScript microservices & MySQL APIs; deployed via Docker/Kubernetes on AWS.  
+- Implemented CI/CD pipelines and TDD in Agile sprints.
 
 ---
 
-## 📂 Projects
+## 🛠️ Projects
 
-### 🏦 **Banking System Using Java & SQL**
-> Designed a modular banking application with full CRUD capabilities and secure user authentication.
-
-**Tech**: Java · OOP · MySQL · File Handling  
-**Skills**: Data Structures · Exception Handling · Modular Architecture
-
----
-
-### 🧠 **Intelligent Localized Assessment Tool (LLM Chatbot)**
-> Fine-tuned **GPT4All Falcon** for a domain-specific educational chatbot using **LangChain**, **FAISS**, and **Astra DB**.
-
-**Tech**: Python · NLP · PyTorch · LangChain  
-**Skills**: Prompt Engineering · LLM Fine-Tuning · Semantic Search
-
----
-
-### 🧪 **Liver Disease Prediction Using Gradient Boosting**
-> Created a supervised ML model using clinical data from Kaggle to predict liver disease risk with high accuracy.
-
-**Tech**: Python · Pandas · Sklearn  
-**Skills**: Data Preprocessing · Feature Engineering · Model Evaluation
+- **Banking System** (Java, MySQL): Full CRUD, secure auth, modular OOP design.  
+- **AI Chatbot** (GPT4All Falcon, LangChain, FAISS): Domain-specific fine-tuning & semantic search.  
+- **Liver Disease Predictor** (Python, Gradient Boosting): High-accuracy ML model on ILPD dataset.
 
 ---
 
 ## 🧰 Skills
 
-```yaml
-Languages:
-  - Python, Java, SQL, JavaScript, TypeScript, HTML/CSS
+**Languages:** Python · Java · SQL · JavaScript · TypeScript  
+**Cloud & DevOps:** AWS (Lambda, EC2) · Docker · Kubernetes · Jenkins · CI/CD  
+**Databases:** MySQL · PostgreSQL · Astra DB · FAISS  
+**Testing:** Selenium · Manual & Automated Testing  
+**Concepts:** OOP · Distributed Systems · Algorithms · Agile · ML/NLP · REST APIs
 
-Frameworks & Tools:
-  - Docker, Kubernetes, Jenkins, Git, REST APIs, Selenium, MySQL, Node.js
+---
 
-Cloud:
-  - AWS (Lambda, EC2, S3)
+## 🎓 Education
 
-Testing:
-  - Manual & Functional Testing, System Testing, Automation (Selenium)
+- **M.S. Computer Science** – Texas Tech University  
+- **B.Tech Computer Science** – Vel Tech HighTech Dr. Rangarajan Dr. Sakunthala Engineering College
 
-Concepts:
-  - Object-Oriented Design, Distributed Systems, Data Structures, CI/CD, Agile, ML/NLP
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rohithkumarmattam)  
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github)](https://github.com/rohithkumarmattam)  
+✉️ rohith.kumar@example.com
+
+---
+⭐ Thank you for visiting!  
