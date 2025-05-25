@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hi, I'm Rohith Kumar Mattam</h1>
-<p align="center"><em>Aspiring Software Engineer | Cloud & Backend | ML & NLP Enthusiast</em></p>
+<p align="center"><em># Aspiring Software Engineer
+
+**Software Engineer with 3 Years Experience | Software Development, Testing & Automation | Cloud & Scalable Systems | AI/ML Testing Enthusiast**
+</em></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
