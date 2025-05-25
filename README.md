@@ -1,5 +1,5 @@
 # Hi, I'm Rohith Kumar Mattam — Aspiring Software Engineer
-![Profile Picture]([https://cbsmn.com/wp-content/uploads/2020/08/AdobeStock_277264567-2-2-scaled.jpeg](https://in.pinterest.com/pin/3096293490096929/))
+![Profile Picture](https://cbsmn.com/wp-content/uploads/2020/08/AdobeStock_277264567-2-2-scaled.jpeg)
 
 **Software Development | Testing & Automation | Cloud & Scalable Systems | AI/ML Testing Enthusiast**
 
