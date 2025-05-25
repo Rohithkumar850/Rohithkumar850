@@ -42,6 +42,36 @@ I am a passionate Software Engineer with 3 years of professional experience in s
 - **Databases:** MySQL, PL/SQL, Query Optimization  
 - **Development Practices:** Agile, SDLC, Test-Driven Development (TDD), CI/CD Automation  
 - **Other:** Penetration Testing, Platform Security, Debugging, Automation Testing, Distributed Systems
+- 
+
+
+## Skills & Technologies 🛠️
+
+### Programming Languages  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Tools  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Other Skills  
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white)  
+![TDD](https://img.shields.io/badge/Test--Driven%20Development-00A9E0?style=for-the-badge)  
+![CI/CD](https://img.shields.io/badge/CI%2FCD-F05032?style=for-the-badge&logo=gitlab&logoColor=white)
+
 
 ---
 
