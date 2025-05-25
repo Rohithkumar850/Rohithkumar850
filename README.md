@@ -1,30 +1,16 @@
-<h1>**Hi This is Rohith Kumar Mattam** </h1>
-
-
+# Hi, I'm Rohith Kumar Mattam — Aspiring Software Engineer
 
 **Software Development | Testing & Automation | Cloud & Scalable Systems | AI/ML Testing Enthusiast**
 
-</em></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
 ---
 
-# About Me
+## About Me
 
 I am a passionate Software Engineer with 3 years of professional experience in software development, testing, and automation across diverse domains including supply chain, eCommerce, and academic projects. Skilled in modern programming languages, cloud technologies, CI/CD automation, and secure scalable system design. Experienced in AI/ML model testing and automation frameworks. I excel in collaborative environments and have a strong foundation in building reliable, high-performance software solutions.
 
-
 ---
 
-# Experience
+## Experience
 
 ### Graduate Assistant  
 **Texas Tech University (Lubbock, TX)**  
@@ -49,28 +35,15 @@ I am a passionate Software Engineer with 3 years of professional experience in s
 
 ---
 
+## Skills & Technologies
 
-## 🛠️ Projects
-
-- **Banking System** (Java, MySQL): Full CRUD, secure auth, modular OOP design.  
-- **AI Chatbot** (GPT4All Falcon, LangChain, FAISS): Domain-specific fine-tuning & semantic search.  
-- **Liver Disease Predictor** (Python, Gradient Boosting): High-accuracy ML model on ILPD dataset.
+- **Programming Languages:** Java, Python, C++, JavaScript, TypeScript, SQL  
+- **Frameworks & Tools:** Node.js, React, REST APIs, Docker, Kubernetes, Jenkins, AWS (Lambda, EC2)  
+- **Databases:** MySQL, PL/SQL, Query Optimization  
+- **Development Practices:** Agile, SDLC, Test-Driven Development (TDD), CI/CD Automation  
+- **Other:** Penetration Testing, Platform Security, Debugging, Automation Testing, Distributed Systems
 
 ---
-
-## 🛠️ Skills
-
-**Languages:** Java, Python, C++, C#, JavaScript, TypeScript  
-**Web & Backend:** Node.js, RESTful APIs, Microservices, SOA  
-**Databases:** MySQL, PL/SQL, Query Optimization, Indexing  
-**Cloud & DevOps:** AWS (Lambda, EC2), Docker, Kubernetes, Jenkins, Git, CI/CD  
-**Testing & Automation:** Selenium, Automated Testing, TDD, Test Case Design  
-**Security:** Penetration Testing, Security Hardening (Linux/Windows), Exploit Analysis  
-**AI/ML:** Gradient Boosting, NLP, Pandas, NumPy  
-**Software Practices:** Agile, SDLC, Debugging, Requirement Analysis  
-**Systems:** Distributed Systems, Fault-Tolerant Architectures, Linux, Windows  
-**Collaboration:** Cross-functional Teams, Stakeholder Communication
-
 
 ---
 
