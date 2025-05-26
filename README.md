@@ -1,7 +1,5 @@
 # Hi, I'm Rohith Kumar Mattam — Aspiring Software Engineer
-[Profile Picture]https://www.google.com/search?q=cs+background+github&sca_esv=4b32451117f11e5d&rlz=1C1MFPQ_enUS1078US1078&udm=2&biw=1494&bih=765&sxsrf=AE3TifO7WVm6ruMDd7IqBQRpQ3DMgHcJUQ%3A1748229300696&ei=tNwzaKefKrG_p84P-eLomAo&ved=0ahUKEwinydDTlcCNAxWx38kDHXkxGqMQ4dUDCBE&uact=5&oq=cs+background+github&gs_lp=EgNpbWciFGNzIGJhY2tncm91bmQgZ2l0aHViSIYVUPsBWIMTcAF4AJABAJgBYKABqQSqAQE3uAEDyAEA-AEBmAIEoAL8AcICBhAAGAcYHsICChAAGIAEGEMYigXCAgoQABiABBixAxgKwgIHEAAYgAQYCsICBhAAGAgYHpgDAIgGAZIHATSgB4QQsgcBM7gH9AE&sclient=img#vhid=w1qTnOJjD4S8IM&vssid=mosaic
-
-
+[Profile Picture](https://github.blog/wp-content/uploads/2024/01/Productivity-DarkMode-3.png?w=1200)
 
 **Software Development | Testing & Automation | Cloud & Scalable Systems | AI/ML Testing Enthusiast**
 
