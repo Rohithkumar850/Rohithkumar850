@@ -4,6 +4,7 @@
 </p>
 **Software Engineer | Test Automation & Quality Assurance | Full-Stack Development | Cloud Computing | API Testing & Validation Expert**
 
+
 ## About Me
 
 I am a passionate Software Engineer with 3 years of professional experience in software development, testing, and automation across diverse domains including supply chain, eCommerce, and academic projects. Skilled in modern programming languages, cloud technologies, CI/CD automation, and secure scalable system design. Experienced in AI/ML model testing and automation frameworks. I excel in collaborative environments and have a strong foundation in building reliable, high-performance software solutions.
