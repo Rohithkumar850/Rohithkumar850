@@ -1,6 +1,8 @@
 # Hi, I'm Rohith Kumar Mattam — Aspiring Software Engineer
 <p align="center">
-  <img src="[[https://github.blog/wp-content/uploads/2024/01/Productivity-DarkMode-3.png](https://uca.edu/dst/files/2022/01/ACAD-1101.png)](https://uca.edu/dst/files/2022/01/ACAD-1101.png)" alt="Profile Picture" width="100%" />
+  <img src="https://uca.edu/dst/files/2022/01/ACAD-1101.png" alt="Banner Image" height="300" />
+</p>
+
 </p>
 
 **Software Development | Testing & Automation | Cloud & Scalable Systems | AI/ML Testing Enthusiast**
