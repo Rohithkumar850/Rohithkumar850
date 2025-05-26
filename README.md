@@ -1,5 +1,6 @@
 # Hi, I'm Rohith Kumar Mattam — Aspiring Software Engineer
-![Profile Picture](https://in.pinterest.com/pin/1146869861341476231/)
+![Profile Picture]([https://i.imgur.com/abc123.jpg](https://in.pinterest.com/pin/1146869861341476231/))
+
 
 
 **Software Development | Testing & Automation | Cloud & Scalable Systems | AI/ML Testing Enthusiast**
