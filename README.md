@@ -8,72 +8,100 @@ Aspiring Software Engineer | Python | Java | AWS | Docker | Scalable System Desi
 
 ## About Me
 
-I am a passionate Software Engineer with 3 years of professional experience in software development, testing, and automation across diverse domains including supply chain, eCommerce, and academic projects. Skilled in modern programming languages, cloud technologies, CI/CD automation, and secure scalable system design. Experienced in AI/ML model testing and automation frameworks. I excel in collaborative environments and have a strong foundation in building reliable, high-performance software solutions.
+I am a results-driven Java developer with 3+ years of experience building backend systems and cloud-native apps using Java 17+, Spring Boot, and Hibernate. I’ve worked with AWS, Docker, Kubernetes, and messaging tools like Kafka and RabbitMQ. I enjoy writing clean code, building microservices, and occasionally dabbling in frontend with Angular or React. Currently looking for new opportunities to grow and contribute
 
 ---
 
 ## Experience
 
-### 🎓 Graduate Assistant  
-**Texas Tech University (Lubbock, TX)**  
-- Developed and maintained Python and Java modules with SQL databases to build a distributed student tracking system emphasizing scalability and efficiency.  
-- Designed and implemented a lightweight distributed tool for monitoring student progress using object-oriented programming and database best practices.  
-- Mentored 50+ students on data structures, algorithms, debugging, and test-driven development (TDD), reinforcing software quality and testing standards.  
-- Collaborated with faculty and students to troubleshoot issues, enhance functionality, and improve overall system performance and reliability.
+### 🎓 Java Developere
+**Centene Corportion (Saint Louis City, Missourie)**  
+- Developed and maintained cloud-native microservices using Java 17+, Spring Boot, JPA, and Hibernate.
+- Built and deployed scalable backend services on AWS (EC2, RDS, S3, SQS, ELB), using Docker and Kubernetes for containerization.
+- Integrated JWT-based authentication and OAuth2 with Keycloak for secure access control.
+- Created and consumed RESTful APIs, documented with Swagger/OpenAPI for easy collaboration.
+- Designed and optimized data models using MySQL and MongoDB, ensuring performance and integrity.
+- Contributed to UI enhancements using AngularJS, HTML, CSS, and JavaScript for a better user experience.
+- Followed Agile/Scrum practices, wrote unit tests with JUnit, and used Git for version control.
 
-### 💼 Software Engineer  
-**DXC Technology**  
-- Delivered critical supply-chain and eCommerce features using Java, Python, and RESTful APIs, increasing system efficiency by 30% and maintaining 99.9% uptime.  
-- Automated CI/CD pipelines with Docker and Jenkins, reducing deployment time by 40% and accelerating delivery speed by 20%.  
-- Worked with cross-functional teams to design and optimize cloud solutions on AWS Lambda and EC2, focusing on scalability, reliability, and security.  
-- Applied debugging, testing, and monitoring techniques to maintain high-quality code and ensure system stability in production.
+**Skills:** Java · JavaScript · SQL · HTML5 · CSS3 · Spring Boot · Spring MVC · Spring Security · Hibernate · JPAS · AngularJS · RESTful WebServices · Swagger · Open API · OAuth2 · JWT · AJAX · Amazon Web Services (AWS) · Docker · Kubernetes · MySQL · MongoDB · Git · Git BASH · Maven · Log4j · JUnit · Postman API · REST APIs · Keycloak · Agile Methodologies · Scrum · Continuous Integration and Continuous Delivery (CI/CD) · SOAP · My Eclipse · Java 17+, · Jersey · JBOSS · PostgreSQL · Ember.js · Web Services
 
-### 💻 Software Engineer Intern  
-**Remote (Hyderabad, India)**  
-- Developed scalable microservices using Node.js and TypeScript, building robust REST APIs integrated with MySQL for backend services.  
-- Deployed applications using Docker and Kubernetes on AWS, ensuring cloud-native scalability and reliability.  
-- Implemented CI/CD pipelines to automate build, test, and deployment workflows within Agile sprint cycles.  
-- Followed test-driven development (TDD) practices to write maintainable, high-quality code that improved reliability and reduced defects.
+### 💼 Software Developer 
+**DXC Technology .Full Time**   
+• Developed RESTful APIs and backend services using Java, Spring Boot, and Hibernate.
+• Built interactive web components with AngularJS, AJAX, and integrated front-end/back-end systems.
+• Worked with messaging systems like Kafka, RabbitMQ, IBM MQ, and ActiveMQ for async processing.
+• Followed Agile Scrum practices and actively participated in daily stand-ups, sprint planning, and retrospectives.
+• Used JIRA for task tracking and IntelliJ, STS, and Eclipse for cross-platform development.
+• Contributed to full SDLC—development, testing, debugging, and deployment of enterprise applications.
+• Developed RESTful APIs and backend services using Java, Spring Boot, and Hibernate. • Built interactive web components with AngularJS, AJAX, and integrated front-end/back-end systems. • Worked with messaging systems like Kafka, RabbitMQ, IBM MQ, and ActiveMQ for async processing. • Followed Agile Scrum practices and actively participated in daily stand-ups, sprint planning, and retrospectives. • Used JIRA for task tracking and IntelliJ, STS, and Eclipse for cross-platform development. • Contributed to full SDLC—development, testing, debugging, and deployment of enterprise applications.
+
+**Skills:** Java 17 · Java 8 · Java 11 · SQL · JSON · Spring Core · Spring IOC · Spring MVC · Spring Security · JPAS · EJB 3.x · AngularJS · ExtJS 5.1 · JSP · Servlets · SoapUI · RESTful WebServices · JMS · kafka-tools · RabbitMQ · IBM MQ · ActiveMQ · JAX-WS · JAX-RS · WSDL · JAXB · SOAP UI · AJAX · Eclipse · STS · IntelliJ · NetBeans · Unix · Windows · Log4j · Selenium · Jira
 
 ---
 
-\## 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
-### 🧑‍💻 Programming Languages  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 👨‍💻 Programming Languages
+- Java (8/11/17/21)
+- Python
+- Shell Scripting
 
-### ⚙️ Frameworks & Tools  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+### 🌐 Web Technologies
+- HTML5, CSS3, JavaScript, JQuery
+- Angular, React.js
+- Core Spring, Spring MVC, Spring Boot
 
-### 🗃️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Query Optimization](https://img.shields.io/badge/Query%20Optimization-0B3D91?style=for-the-badge)
+### 📚 Frameworks & Libraries
+- Spring (IoC, AOP, Web Flow, Spring Cloud, Spring Security)
+- Hibernate / JPA
+- JSF
+- Log4J
 
-### 🔁 Development Practices  
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![SDLC](https://img.shields.io/badge/SDLC-1E90FF?style=for-the-badge)
-![TDD](https://img.shields.io/badge/Test--Driven%20Development-00A9E0?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-F05032?style=for-the-badge&logo=gitlab&logoColor=white)
+### ✅ Testing & QA
+- JUnit 5, TestNG, Mockito
+- Selenium
+- SOAP UI
+- SonarQube (static analysis)
+- TDD (Test-Driven Development)
 
-### 🛡️ Other Expertise  
-![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-B71C1C?style=for-the-badge)
-![Platform Security](https://img.shields.io/badge/Platform%20Security-4CAF50?style=for-the-badge)
-![Debugging](https://img.shields.io/badge/Debugging-607D8B?style=for-the-badge)
-![Automation Testing](https://img.shields.io/badge/Automation%20Testing-9C27B0?style=for-the-badge)
-![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-3F51B5?style=for-the-badge)
+### 🗄️ Databases
+- Relational: Oracle, MySQL, PostgreSQL, Microsoft SQL Server
+- NoSQL: MongoDB, Redis, Cassandra
+
+### ⚙️ Build & CI/CD Tools
+- Maven, Gradle, ANT
+- Jenkins, GitHub Actions
+- Git, GitHub, SVN, CVS, ClearCase
+
+### ☁️ Cloud & DevOps
+- **AWS**: EC2, ECS, S3, RDS, Lambda, SQS, SNS, CloudWatch, ELB
+- **Azure**: AKS, DevOps Pipelines
+- **GCP**: Cloud SQL, BigQuery
+- Docker, Kubernetes
+- JIRA
+
+### 📡 Messaging & Integration
+- Apache Kafka
+- RabbitMQ
+- IBM MQ, ActiveMQ
+- RESTful & SOAP APIs
+- Swagger / OpenAPI
+
+### 📊 Monitoring & Logging
+- Prometheus, Grafana
+- ELK Stack (Elasticsearch, Logstash, Kibana)
+- Splunk
+
+### 🔐 Security
+- Spring Security
+- OAuth2, JWT
+- Keycloak, Okta
+
+### 🧑‍🤝‍🧑 Methodologies
+- Agile / Scrum
+- SDLC (Requirement → Deployment)
+
 
 
 ## 🎓 Education
