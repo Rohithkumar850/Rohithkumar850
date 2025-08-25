@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://edsurge.imgix.net/uploads/post/image/16242/Shutterstock_1044537742-1742140754.jpg?auto=compress%2Cformat&w=640&h=259&fit=crop" alt="Banner Image" width="100%" />
 </p>
-Aspiring Software Engineer | Python | Java | AWS | Docker | Scalable System Design | Algorithms | Agile Development | Data-Driven Solutions
+🚀 Software Engineer | Java & Spring Boot | Cloud-Native Microservices | AWS | Full-Stack Developer
+
 
 
 
