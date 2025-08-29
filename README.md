@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am a results-driven Java developer with 3+ years of experience building backend systems and cloud-native apps using Java 17+, Spring Boot, and Hibernate. I’ve worked with AWS, Docker, Kubernetes, and messaging tools like Kafka and RabbitMQ. I enjoy writing clean code, building microservices, and occasionally dabbling in frontend with Angular or React. Currently looking for new opportunities to grow and contribute
+I am a results-driven Java developer with 4+ years of experience building backend systems and cloud-native apps using Java 17+, Spring Boot, and Hibernate. I’ve worked with AWS, Docker, Kubernetes, and messaging tools like Kafka and RabbitMQ. I enjoy writing clean code, building microservices, and occasionally dabbling in frontend with Angular or React. Currently looking for new opportunities to grow and contribute
 
 ---
 
