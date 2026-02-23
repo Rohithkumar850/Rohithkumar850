@@ -44,7 +44,7 @@ AI ML Engineer with over 5 years of experience building and deploying scalable m
 **Skills:** Java 17 · Java 8 · Java 11 · SQL · JSON · Spring Core · Spring IOC · Spring MVC · Spring Security · JPAS · EJB 3.x · AngularJS · ExtJS 5.1 · JSP · Servlets · SoapUI · RESTful WebServices · JMS · kafka-tools · RabbitMQ · IBM MQ · ActiveMQ · JAX-WS · JAX-RS · WSDL · JAXB · SOAP UI · AJAX · Eclipse · STS · IntelliJ · NetBeans · Unix · Windows · Log4j · Selenium · Jira
 
 ### Junior Data Scientist
-** Zensor Technologies .Full Time**
+**Zensor Technologies .Full Time**
 - Developed machine learning models using Python, Scikit learn, and Apache Spark to support operational analytics and compliance monitoring across engineering and industrial domains.
 
 - Built and trained deep learning models including CNN and RNN architectures for document classification, inspection record analysis, and automated regulatory processing.
