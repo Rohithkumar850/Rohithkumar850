@@ -2,42 +2,59 @@
 <p align="center">
   <img src="https://edsurge.imgix.net/uploads/post/image/16242/Shutterstock_1044537742-1742140754.jpg?auto=compress%2Cformat&w=640&h=259&fit=crop" alt="Banner Image" width="100%" />
 </p>
-🚀 Software Engineer | Java & Spring Boot | Cloud-Native Microservices | AWS | Full-Stack Developer
+🚀AI ML Engineer | Deep Learning | LLMs & RAG | Scalable Cloud AI Systems
 
 
 
 
 ## About Me
 
-I am a results-driven Java developer with 4+ years of experience building backend systems and cloud-native apps using Java 17+, Spring Boot, and Hibernate. I’ve worked with AWS, Docker, Kubernetes, and messaging tools like Kafka and RabbitMQ. I enjoy writing clean code, building microservices, and occasionally dabbling in frontend with Angular or React. Currently looking for new opportunities to grow and contribute
+AI ML Engineer with over 5 years of experience building and deploying scalable machine learning solutions across banking, healthcare, and engineering domains. I specialize in Python, TensorFlow, PyTorch, Scikit learn, and XGBoost for predictive modeling, deep learning, fraud detection, credit risk modeling, loan default prediction, patient risk stratification, and operational risk analytics. I have hands on experience with Large Language Models such as BERT and GPT, along with NLP frameworks including spaCy and NLTK, developing document intelligence and Retrieval Augmented Generation based systems. My expertise includes designing end to end ML pipelines covering data ingestion, feature engineering, model training, validation, deployment, monitoring, and automated retraining using MLOps best practices. I build real time and batch data pipelines using Apache Spark, Kafka, SQL, and cloud platforms, and deploy production grade models on AWS SageMaker, Azure ML, and GCP Vertex AI using Docker and CI CD workflows. I also apply Explainable AI techniques such as SHAP and LIME to ensure transparency and regulatory compliance while collaborating with cross functional teams to deliver measurable, business driven outcomes.
 
 ---
 
 ## Experience
 
 ### 🎓 Java Developere
-**Centene Corportion (Saint Louis City, Missourie)**  
-- Developed and maintained cloud-native microservices using Java 17+, Spring Boot, JPA, and Hibernate.
-- Built and deployed scalable backend services on AWS (EC2, RDS, S3, SQS, ELB), using Docker and Kubernetes for containerization.
-- Integrated JWT-based authentication and OAuth2 with Keycloak for secure access control.
-- Created and consumed RESTful APIs, documented with Swagger/OpenAPI for easy collaboration.
-- Designed and optimized data models using MySQL and MongoDB, ensuring performance and integrity.
-- Contributed to UI enhancements using AngularJS, HTML, CSS, and JavaScript for a better user experience.
-- Followed Agile/Scrum practices, wrote unit tests with JUnit, and used Git for version control.
+**FirstHorizon Bank (Charlotte, NC)**  
+- Designed and deployed ML and deep learning models using TensorFlow, PyTorch, and XGBoost for credit risk assessment, loan default prediction, underwriting analytics, and customer insights across commercial banking portfolios.
+
+- Implemented NLP and LLM solutions including BERT, GPT, and RAG pipelines to automate loan document processing, AML summarization, and internal knowledge retrieval systems.
+
+- Built real time transaction monitoring and data pipelines using Apache Kafka, Azure Data Factory, SQL, PostgreSQL, and MongoDB to support fraud detection and risk analytics workflows.
+
+- Developed time series forecasting models using LSTM and RNN architectures for liquidity monitoring and deposit trend analysis within Treasury operations.
+
+- Deployed scalable ML solutions on AWS SageMaker and Azure ML, applying SHAP and LIME for model explainability while ensuring regulatory compliance and cross functional collaboration with Risk and Compliance teams.
 
 **Skills:** Java · JavaScript · SQL · HTML5 · CSS3 · Spring Boot · Spring MVC · Spring Security · Hibernate · JPAS · AngularJS · RESTful WebServices · Swagger · Open API · OAuth2 · JWT · AJAX · Amazon Web Services (AWS) · Docker · Kubernetes · MySQL · MongoDB · Git · Git BASH · Maven · Log4j · JUnit · Postman API · REST APIs · Keycloak · Agile Methodologies · Scrum · Continuous Integration and Continuous Delivery (CI/CD) · SOAP · My Eclipse · Java 17+, · Jersey · JBOSS · PostgreSQL · Ember.js · Web Services
 
-### 💼 Software Developer 
-**DXC Technology .Full Time**   
-• Developed RESTful APIs and backend services using Java, Spring Boot, and Hibernate.
-• Built interactive web components with AngularJS, AJAX, and integrated front-end/back-end systems.
-• Worked with messaging systems like Kafka, RabbitMQ, IBM MQ, and ActiveMQ for async processing.
-• Followed Agile Scrum practices and actively participated in daily stand-ups, sprint planning, and retrospectives.
-• Used JIRA for task tracking and IntelliJ, STS, and Eclipse for cross-platform development.
-• Contributed to full SDLC—development, testing, debugging, and deployment of enterprise applications.
-• Developed RESTful APIs and backend services using Java, Spring Boot, and Hibernate. • Built interactive web components with AngularJS, AJAX, and integrated front-end/back-end systems. • Worked with messaging systems like Kafka, RabbitMQ, IBM MQ, and ActiveMQ for async processing. • Followed Agile Scrum practices and actively participated in daily stand-ups, sprint planning, and retrospectives. • Used JIRA for task tracking and IntelliJ, STS, and Eclipse for cross-platform development. • Contributed to full SDLC—development, testing, debugging, and deployment of enterprise applications.
+### 💼 AI/ML Engineer 
+**HealthSignz Technologies .Full Time**   
+- Developed and deployed ML and deep learning models using TensorFlow, PyTorch, XGBoost, and Keras for patient risk stratification, disease prediction, readmission analysis, and healthcare outcome forecasting.
+
+- Built CNN and RNN based architectures for medical image analysis and longitudinal patient data modeling, supporting clinical decision making and predictive analytics.
+
+- Processed large scale healthcare datasets including EHR, claims, and lab records using Spark, Pandas, and distributed ETL workflows with Hadoop, Hive, Airflow, and Databricks.
+
+- Applied NLP and transformer models including BERT and GPT for clinical note extraction, medical entity recognition, and ICD code identification.
+
+- Deployed scalable ML solutions on AWS, Azure ML, and GCP using Docker and CI CD pipelines, ensuring secure, compliant, and production ready healthcare AI systems.
 
 **Skills:** Java 17 · Java 8 · Java 11 · SQL · JSON · Spring Core · Spring IOC · Spring MVC · Spring Security · JPAS · EJB 3.x · AngularJS · ExtJS 5.1 · JSP · Servlets · SoapUI · RESTful WebServices · JMS · kafka-tools · RabbitMQ · IBM MQ · ActiveMQ · JAX-WS · JAX-RS · WSDL · JAXB · SOAP UI · AJAX · Eclipse · STS · IntelliJ · NetBeans · Unix · Windows · Log4j · Selenium · Jira
+
+### Junior Data Scientist
+** Zensor Technologies .Full Time**
+- Developed machine learning models using Python, Scikit learn, and Apache Spark to support operational analytics and compliance monitoring across engineering and industrial domains.
+
+- Built and trained deep learning models including CNN and RNN architectures for document classification, inspection record analysis, and automated regulatory processing.
+
+- Applied OpenCV based image processing techniques and advanced feature engineering using Pandas and NumPy to enhance document digitization and data quality.
+
+- Designed and maintained data pipelines using Spark and Apache Airflow, and optimized SQL databases including MySQL and PostgreSQL for scalable enterprise analytics.
+
+- Developed Django based analytics applications and interactive dashboards using Power BI and Tableau, collaborating with cross functional teams to deliver data driven insights.
+
 
 ---
 
