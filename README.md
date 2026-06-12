@@ -15,7 +15,7 @@ AI ML Engineer with over 5 years of experience building and deploying scalable m
 
 ## Experience
 
-### 🎓 Java Developere
+### 🎓 AI/ML Engineer
 **FirstHorizon Bank (Charlotte, NC)**  
 - Designed and deployed ML and deep learning models using TensorFlow, PyTorch, and XGBoost for credit risk assessment, loan default prediction, underwriting analytics, and customer insights across commercial banking portfolios.
 
